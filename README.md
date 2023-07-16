@@ -13,7 +13,7 @@
 На лекции рассматривались режимы репликации master-slave, master-master, опишите их различия.
 
 
-- 1. Репликация Master-Slave
+1. Репликация Master-Slave
 
 Плюсы
 
@@ -35,7 +35,7 @@
 
 Возможно, потребуется перезапустить приложение
 
-- 2. Репликация Master-Master
+2. Репликация Master-Master
 
 Плюсы
 
@@ -64,26 +64,32 @@
 
 Скриншот Master
 
+Конфигурация
+
 ![master_conf.png](https://github.com/Andrewsolo1969/12-6-hw/blob/main//img/master_conf.png)
 
+
+Создание базы world и статус Master
 
 ![master_status_1.png](https://github.com/Andrewsolo1969/12-6-hw/blob/main//img/master_status_1.png)
 
 Скриншот Slave
 
+Конфигурация
 
 ![slave_conf.png](https://github.com/Andrewsolo1969/12-6-hw/blob/main//img/slave_conf.png)
+
+Статус Slave
 
 ![slave_status.png](https://github.com/Andrewsolo1969/12-6-hw/blob/main//img/slave_status.png)
 
 
-
-Master-Slave status
+Статус Master и Slave одновременно.
 
 ![master_slave_status.png](https://github.com/Andrewsolo1969/12-6-hw/blob/main//img/master_slave_status.png)
 
 
-Создание базы andrew на Master и работа репликации - появление базы andreww на Slave
+Создание базы andrew на Master и работа репликации - появление базы andrew на Slave
 
 ![create_andrew.png](https://github.com/Andrewsolo1969/12-6-hw/blob/main//img/create_andrew.png)
 
