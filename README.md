@@ -94,7 +94,7 @@
 ![create_andrew.png](https://github.com/Andrewsolo1969/12-6-hw/blob/main//img/create_andrew.png)
 
 
-Drop базы andrew на Master и работа репликации - отсутствие базы andreww на Slave
+Drop базы andrew на Master и работа репликации - отсутствие базы andrew на Slave
 
 ![drop_andrew.png](https://github.com/Andrewsolo1969/12-6-hw/blob/main//img/drop_andrew.png)
 
